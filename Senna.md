@@ -4,7 +4,7 @@
   <style>
     header {
       text-align: center;
-      background: url('http://dash.ga.co/assets/jeff-bg.png');
+      background: url('https://i.imgur.com/vJ2ojYv.jpg');
       background-size: cover;
       color: white;
     }
